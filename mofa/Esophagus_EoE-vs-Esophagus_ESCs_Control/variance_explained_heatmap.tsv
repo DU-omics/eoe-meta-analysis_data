@@ -1,0 +1,11 @@
+group	factor	Human transcriptome
+Esophagus_EoE	Factor1	0.49694769091920277
+Esophagus_EoE	Factor2	0.07377974985285363
+Esophagus_EoE	Factor3	0.06630401920095785
+Esophagus_EoE	Factor4	0.028525569042847643
+Esophagus_EoE	Factor5	0.021274028958295776
+Esophagus_ESCs_Control	Factor1	3.2119409189000137
+Esophagus_ESCs_Control	Factor2	0.9505424587269662
+Esophagus_ESCs_Control	Factor3	0.07179996111253972
+Esophagus_ESCs_Control	Factor4	0.0030684164331717945
+Esophagus_ESCs_Control	Factor5	2.6300274258428402e-5
