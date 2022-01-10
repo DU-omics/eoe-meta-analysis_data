@@ -1,3 +1,0 @@
-DGE	Genes	Process~name	num_of_Genes	gene_group	percentage%	P-value	Benjamini and Hochberg (FDR)	 Hommel singlewise process	Bonferroni single-step process	Hommel singlewise process	Hochberg step-up process	Benjamini and Yekutieli
-up	USP2; GADD45A; NRARP;	GO:0000122~negative regulation of transcription by RNA polymerase II	3	847	0.354191263282172	0.00561051609285068	0.0189040508484609	0.745018075564161	1	0.185147031064072	0.348216633571566	0.109132097273896
-down	TNFRSF10A; RLN1; IL17B;	GO:0007165~signal transduction	3	989	0.303336703741153	0.0105418798258268	0.0240571103717585	0.537635871117165	0.938227304498583	0.202734714163143	0.41584587243276	0.122004660738629
