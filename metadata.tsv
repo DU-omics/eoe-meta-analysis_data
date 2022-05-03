@@ -1,459 +1,459 @@
-sample	condition	control	group	tissue	source	Library prep strategy	Library prep kit	Blood RNA isolation	Gender	Age	Tissue sublocation	Cell type	Treatment
-GSM1022678	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022679	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022680	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022681	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022682	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022683	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022684	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022685	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022686	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022687	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022688	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022689	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022690	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022691	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022692	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
-GSM1022693	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022694	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1022695	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM1385778	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
-GSM1385779	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
-GSM1385780	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
-GSM1385781	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
-GSM1385782	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
-GSM1385783	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
-GSM1415906	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415907	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415908	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415909	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415910	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415911	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415912	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415913	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415914	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415915	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415916	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415917	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415918	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415919	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415920	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM1415921	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
-GSM2769390	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
-GSM2769391	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
-GSM2769392	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
-GSM2769393	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
-GSM2769394	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
-GSM2769395	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
-GSM2769396	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
-GSM2769397	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
-GSM2769398	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
-GSM3103946	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103947	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103948	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103949	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103950	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103951	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103952	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103953	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103954	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103955	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103956	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103957	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103958	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103959	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103960	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
-GSM3103961	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103962	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103963	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103964	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM3103965	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
-GSM4260265	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
-GSM4260266	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
-GSM4260267	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
-GSM4260268	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
-GSM4260269	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
-GSM4260270	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
-GSM4260271	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
-GSM4260272	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
-GSM4260273	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
-GSM4260274	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
-GSM4260275	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
-GSM4260276	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
-GSM4735785	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		75			None
-GSM4735786	Blood_Control	TRUE	Control	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		67			None
-GSM4735787	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		34			None
-GSM4735788	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		39			None
-GSM4735789	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		38			None
-GSM4735790	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		60			None
-GSM4735791	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		65			None
-GSM4735792	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		32			None
-GSM4735793	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		51			None
-GSM4735794	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		25			None
-GSM4735795	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		75			None
-GSM4735796	Esophagus_Control	TRUE	Control	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		67			None
-GSM4735797	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		34			None
-GSM4735798	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		39			None
-GSM4735799	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		38			None
-GSM4735800	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		60			None
-GSM4735801	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		65			None
-GSM4735802	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		32			None
-GSM4735803	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		51			None
-GSM4735804	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		25			None
-GSM5282507	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	None
-GSM5282508	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	None
-GSM5282509	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	EPIT
-GSM5282510	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		9		CD4+	None
-GSM5282511	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		9		CD4+	None
-GSM5282512	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		13		CD4+	None
-GSM5282513	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		13		CD4+	EPIT
-GSM5282514	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
-GSM5282515	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	Placebo
-GSM5282516	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
-GSM5282517	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
-GSM5282518	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
-GSM5282519	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
-GSM5282520	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
-GSM5282521	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	None
-GSM5282522	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	None
-GSM5282523	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	EPIT
-GSM5282524	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
-GSM5282525	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	EPIT
-GSM5282526	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		6		CD4+	None
-GSM5282527	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		6		CD4+	EPIT
-GSM5282528	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
-GSM5282529	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	Placebo
-GSM5282530	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	None
-GSM5282531	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	None
-GSM5282532	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
-GSM5282533	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
-GSM5282534	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		7		CD4+	EPIT
-GSM5282535	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		14		CD4+	Placebo
-GSM5282536	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	EPIT
-GSM4260927	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	28			None
-GSM4260928	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
-GSM4260929	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
-GSM4260930	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
-GSM4260931	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
-GSM4260932	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
-GSM4260933	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	45			None
-GSM4260934	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
-GSM4260935	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4260936	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	53			None
-GSM4260937	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	48			None
-GSM4260938	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	43			None
-GSM4260939	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260940	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	37			None
-GSM4260941	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
-GSM4260942	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	54			None
-GSM4260943	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
-GSM4260944	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	58			None
-GSM4260945	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	34			None
-GSM4260946	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	46			None
-GSM4260947	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
-GSM4260948	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	54			None
-GSM4260949	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4260950	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
-GSM4260951	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
-GSM4260952	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	31			None
-GSM4260953	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	60			None
-GSM4260954	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	33			None
-GSM4260955	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	36			None
-GSM4260956	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	37			None
-GSM4260957	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	37			None
-GSM4260958	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	58			None
-GSM4260959	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
-GSM4260960	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	59			None
-GSM4260961	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
-GSM4260962	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
-GSM4260963	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	37			None
-GSM4260964	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	43			None
-GSM4260965	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260966	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260967	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	28			None
-GSM4260968	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
-GSM4260969	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
-GSM4260970	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	48			None
-GSM4260971	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260972	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	54			None
-GSM4260973	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
-GSM4260974	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	50			None
-GSM4260975	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260976	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
-GSM4260977	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	45			None
-GSM4260978	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
-GSM4260979	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
-GSM4260980	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	27			None
-GSM4260981	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4260982	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
-GSM4260983	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
-GSM4260984	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
-GSM4260985	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	44			None
-GSM4260986	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	38			None
-GSM4260987	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
-GSM4260988	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
-GSM4260989	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	39			None
-GSM4260990	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	33			None
-GSM4260991	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
-GSM4260992	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	40			None
-GSM4260993	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
-GSM4260994	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4260995	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4260996	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	29			None
-GSM4260997	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
-GSM4260998	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	46			None
-GSM4260999	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	28			None
-GSM4261000	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	50			None
-GSM4261001	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	42			None
-GSM4261002	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
-GSM4261003	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
-GSM4261004	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4261005	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
-GSM4261006	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	40			None
-GSM4261007	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	30			None
-GSM4261008	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	38			None
-GSM4261009	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
-GSM4261010	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	38			None
-GSM4261011	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	43			None
-GSM4261012	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
-GSM4261013	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
-GSM4261014	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	60			None
-GSM4261015	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	46			None
-GSM4261016	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	30			None
-GSM4261017	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	33			None
-GSM4261018	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
-GSM4261019	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
-GSM4261020	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	39			None
-GSM4261021	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	53			None
-GSM4261022	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	51			None
-GSM4261023	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	30			None
-GSM4261024	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4261025	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	33			None
-GSM4261026	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
-GSM4261027	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	44			None
-GSM4818000	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818001	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818002	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818003	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818004	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818005	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818006	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818007	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818008	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818009	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818010	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818011	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818012	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818013	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818014	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818015	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818016	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818017	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818018	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818019	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
-GSM4818020	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818021	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818022	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM4818023	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
-GSM3056394	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056395	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056396	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056397	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056398	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056399	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056400	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056401	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056402	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056403	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056404	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056405	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056406	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056407	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056408	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056409	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056410	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056411	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056412	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056413	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056414	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056415	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056416	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056417	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056418	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056419	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056420	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056421	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056422	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056423	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056424	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056425	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056426	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056427	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056428	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056429	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056430	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056431	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056432	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056433	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056434	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056435	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056436	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056437	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056438	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056439	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056440	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056441	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056442	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056443	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056444	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056445	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056446	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056447	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056448	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056449	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056450	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056451	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056452	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056453	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056454	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056455	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056456	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056457	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056458	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056459	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056460	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056461	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056462	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056463	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056464	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056465	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056466	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056467	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056468	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056469	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056470	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056471	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056472	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056473	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056474	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056475	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056476	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056477	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056478	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056479	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056480	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056481	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056482	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056483	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056484	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056485	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056486	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056487	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056488	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056489	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056490	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056491	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056492	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056493	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056494	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056495	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056496	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056497	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056498	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056499	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056500	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056501	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056502	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056503	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056504	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056505	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056506	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056507	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056508	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056509	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056510	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056511	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056512	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056513	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056514	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056515	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056516	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056517	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056518	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056519	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056520	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056521	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056522	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056523	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056524	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056525	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056526	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056527	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056528	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056529	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056530	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056531	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056532	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056533	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056534	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056535	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056536	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056537	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056538	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056539	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056540	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056541	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056542	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056543	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056544	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056545	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056546	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056547	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056548	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056549	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056550	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056551	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056552	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056553	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056554	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056555	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056556	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056557	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056558	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056559	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056560	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056561	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056562	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056563	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056564	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056565	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056566	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056567	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056568	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056569	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056570	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056571	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056572	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056573	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056574	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056575	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056576	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056577	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056578	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056579	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056580	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
-GSM3056581	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056582	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056583	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056584	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056585	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056586	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056587	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056588	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056589	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056590	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
-GSM3056591	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056592	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056593	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056594	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
-GSM3056595	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+sample	analysis_path	host	metatranscriptomics	immune_profiling	condition	control	group	tissue	source	library_prep_strategy	library_prep_kit	blood_rna_isolation	Gender	Age	tissue_sublocation	cell_type	Treatment
+GSM1022678	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022679	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022680	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022681	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022682	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022683	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022684	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022685	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022686	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022687	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022688	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022689	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	FALSE	GERD	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022690	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022691	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022692	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Proximal		None
+GSM1022693	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022694	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1022695	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE41687/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE41687	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM1385778	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
+GSM1385779	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
+GSM1385780	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	None
+GSM1385781	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
+GSM1385782	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
+GSM1385783	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE57637/pipeline_rna/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE57637	Total	Illumina TruSeq RNA sample prep kit	NA				ECs TE-7	IL-13
+GSM1415906	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415907	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415908	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415909	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415910	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415911	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415912	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415913	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415914	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415915	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415916	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415917	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415918	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415919	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415920	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM1415921	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE58640/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE58640	Total	Illumina TruSeq RNA sample prep kit	NA					None
+GSM2769390	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
+GSM2769391	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
+GSM2769392	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	None
+GSM2769393	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
+GSM2769394	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
+GSM2769395	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ECs EPC2	SPINK7 silencing
+GSM2769396	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
+GSM2769397	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
+GSM2769398	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE103356/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE103356	polyA	Illumina TruSeq RNA sample prep kit	NA				ESCs EPC2	None
+GSM3103946	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103947	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103948	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103949	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103950	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103951	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103952	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103953	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103954	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103955	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103956	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103957	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103958	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103959	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103960	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Male		Distal		None
+GSM3103961	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103962	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103963	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103964	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM3103965	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE113341/pipeline/results/	TRUE	TRUE	TRUE	Esophagus_Control	TRUE	Control	Esophagus	GSE113341	Total	Illumina TruSeq RNA sample prep kit	NA	Female		Distal		None
+GSM4260265	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
+GSM4260266	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
+GSM4260267	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
+GSM4260268	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
+GSM4260269	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
+GSM4260270	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
+GSM4260271	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
+GSM4260272	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
+GSM4260273	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
+GSM4260274	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TNFSF14
+GSM4260275	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	TGFB1
+GSM4260276	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE143482/pipeline/results/	TRUE	FALSE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE143482	polyA	NEBNext Ultra II Directional RNA Library Prep Kit	NA				Fibroblasts	None
+GSM4735785	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		75			None
+GSM4735786	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_Control	TRUE	Control	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		67			None
+GSM4735787	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		34			None
+GSM4735788	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		39			None
+GSM4735789	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		38			None
+GSM4735790	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		60			None
+GSM4735791	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_GERD	TRUE	GERD	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		65			None
+GSM4735792	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		32			None
+GSM4735793	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		51			None
+GSM4735794	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Blood_EoE	FALSE	EoE	Blood	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	Tempus Blood RNA Tubes		25			None
+GSM4735795	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		75			None
+GSM4735796	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_Control	TRUE	Control	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		67			None
+GSM4735797	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		34			None
+GSM4735798	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		39			None
+GSM4735799	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		38			None
+GSM4735800	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		60			None
+GSM4735801	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_GERD	TRUE	GERD	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		65			None
+GSM4735802	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		32			None
+GSM4735803	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		51			None
+GSM4735804	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE156651/pipeline/results/	TRUE	TRUE	FALSE	Esophagus_EoE	FALSE	EoE	Esophagus	GSE156651	Total	SMART-Seq v4 Ultra Low Input RNA Kit	NA		25			None
+GSM5282507	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	None
+GSM5282508	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	None
+GSM5282509	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	EPIT
+GSM5282510	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		9		CD4+	None
+GSM5282511	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		9		CD4+	None
+GSM5282512	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		13		CD4+	None
+GSM5282513	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		13		CD4+	EPIT
+GSM5282514	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
+GSM5282515	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	Placebo
+GSM5282516	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
+GSM5282517	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
+GSM5282518	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
+GSM5282519	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
+GSM5282520	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
+GSM5282521	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	None
+GSM5282522	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	None
+GSM5282523	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		5		CD4+	EPIT
+GSM5282524	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
+GSM5282525	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	EPIT
+GSM5282526	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		6		CD4+	None
+GSM5282527	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		6		CD4+	EPIT
+GSM5282528	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	None
+GSM5282529	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		12		CD4+	Placebo
+GSM5282530	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	None
+GSM5282531	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		15		CD4+	None
+GSM5282532	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	None
+GSM5282533	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		8		CD4+	EPIT
+GSM5282534	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		7		CD4+	EPIT
+GSM5282535	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		14		CD4+	Placebo
+GSM5282536	/home/llamparelli/HD8TB_2_transcriptomics/data_mining_rna_eoe_done/GSE173895/pipeline/results/	TRUE	TRUE	TRUE	Blood_EoE	FALSE	EoE	Blood	GSE173895	Total	Ovation Ultralow Library System V2	Invitrogen Dynabeads		11		CD4+	EPIT
+GSM4260927	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	28			None
+GSM4260928	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
+GSM4260929	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
+GSM4260930	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
+GSM4260931	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
+GSM4260932	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
+GSM4260933	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	45			None
+GSM4260934	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
+GSM4260935	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4260936	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	53			None
+GSM4260937	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	48			None
+GSM4260938	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	43			None
+GSM4260939	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260940	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	37			None
+GSM4260941	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
+GSM4260942	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	54			None
+GSM4260943	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
+GSM4260944	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	58			None
+GSM4260945	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	34			None
+GSM4260946	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	46			None
+GSM4260947	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
+GSM4260948	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	54			None
+GSM4260949	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4260950	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
+GSM4260951	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
+GSM4260952	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	31			None
+GSM4260953	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	60			None
+GSM4260954	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	33			None
+GSM4260955	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	36			None
+GSM4260956	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	37			None
+GSM4260957	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	37			None
+GSM4260958	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	58			None
+GSM4260959	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
+GSM4260960	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	59			None
+GSM4260961	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	49			None
+GSM4260962	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
+GSM4260963	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	37			None
+GSM4260964	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	43			None
+GSM4260965	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260966	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260967	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	28			None
+GSM4260968	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
+GSM4260969	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
+GSM4260970	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	48			None
+GSM4260971	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260972	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	54			None
+GSM4260973	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
+GSM4260974	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	50			None
+GSM4260975	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260976	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
+GSM4260977	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	45			None
+GSM4260978	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
+GSM4260979	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	47			None
+GSM4260980	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	27			None
+GSM4260981	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4260982	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
+GSM4260983	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	41			None
+GSM4260984	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	36			None
+GSM4260985	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	44			None
+GSM4260986	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	38			None
+GSM4260987	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	41			None
+GSM4260988	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
+GSM4260989	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	39			None
+GSM4260990	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	33			None
+GSM4260991	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
+GSM4260992	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	40			None
+GSM4260993	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	42			None
+GSM4260994	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4260995	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4260996	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	29			None
+GSM4260997	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
+GSM4260998	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	46			None
+GSM4260999	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	28			None
+GSM4261000	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	50			None
+GSM4261001	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	42			None
+GSM4261002	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
+GSM4261003	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
+GSM4261004	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4261005	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	34			None
+GSM4261006	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	40			None
+GSM4261007	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	30			None
+GSM4261008	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	38			None
+GSM4261009	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	39			None
+GSM4261010	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	38			None
+GSM4261011	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	43			None
+GSM4261012	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
+GSM4261013	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	44			None
+GSM4261014	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	60			None
+GSM4261015	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	46			None
+GSM4261016	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	30			None
+GSM4261017	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	33			None
+GSM4261018	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	35			None
+GSM4261019	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	32			None
+GSM4261020	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	39			None
+GSM4261021	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	53			None
+GSM4261022	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	51			None
+GSM4261023	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	30			None
+GSM4261024	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4261025	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	33			None
+GSM4261026	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Male	35			None
+GSM4261027	/home/llamparelli/archives/data_mining_rna_ibd/GSE143507/pipeline/results/	TRUE	TRUE	TRUE	Blood_IBD	FALSE	IBD	Blood	GSE143507	Total	Illumina TruSeq RNA sample prep kit	PAXgene Blood RNA kit	Female	44			None
+GSM4818000	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818001	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818002	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818003	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818004	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818005	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818006	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818007	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818008	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818009	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818010	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818011	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818012	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818013	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818014	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818015	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818016	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818017	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818018	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818019	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Infliximab
+GSM4818020	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818021	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818022	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM4818023	/home/llamparelli/archives/data_mining_rna_ibd/GSE159034/pipeline/results/	TRUE	TRUE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE159034	Total	NEBNext Ultra II Directional RNA Library Prep Kit	PAXgene Blood RNA kit					Adalimumab
+GSM3056394	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056395	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056396	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056397	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056398	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056399	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056400	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056401	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056402	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056403	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056404	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056405	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056406	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056407	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056408	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056409	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056410	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056411	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056412	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056413	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056414	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056415	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056416	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056417	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056418	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056419	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056420	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056421	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056422	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056423	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056424	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056425	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056426	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056427	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056428	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056429	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056430	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056431	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056432	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056433	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056434	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056435	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056436	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056437	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056438	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056439	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056440	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056441	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056442	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056443	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056444	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056445	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056446	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056447	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056448	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056449	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056450	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056451	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056452	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056453	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056454	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056455	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056456	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056457	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056458	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056459	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056460	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056461	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056462	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056463	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056464	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056465	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056466	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056467	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056468	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056469	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056470	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056471	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056472	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056473	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056474	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056475	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056476	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056477	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056478	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056479	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056480	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056481	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056482	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056483	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056484	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056485	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056486	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056487	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056488	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056489	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056490	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056491	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056492	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056493	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056494	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056495	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056496	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056497	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056498	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056499	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056500	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056501	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056502	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056503	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056504	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056505	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056506	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056507	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056508	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056509	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056510	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056511	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056512	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056513	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056514	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056515	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056516	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056517	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056518	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056519	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056520	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056521	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056522	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056523	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056524	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056525	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056526	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056527	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056528	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056529	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056530	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056531	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056532	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056533	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056534	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056535	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056536	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056537	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056538	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056539	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056540	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056541	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056542	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056543	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056544	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056545	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056546	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056547	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056548	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056549	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056550	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056551	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056552	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056553	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056554	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056555	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056556	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056557	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056558	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056559	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056560	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056561	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056562	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056563	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056564	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056565	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056566	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056567	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056568	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056569	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056570	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056571	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056572	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056573	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056574	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056575	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056576	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056577	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056578	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056579	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056580	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes					
+GSM3056581	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056582	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056583	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056584	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056585	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056586	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056587	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056588	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056589	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056590	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Male				
+GSM3056591	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056592	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056593	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056594	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_Control	TRUE	Control	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
+GSM3056595	/home/llamparelli/archives/data_mining_rna_ibd/GSE112057/pipeline/results/	TRUE	FALSE	FALSE	Blood_IBD	FALSE	IBD	Blood	GSE112057	polyA	Illumina TruSeq RNA sample prep kit	Tempus Blood RNA Tubes	Female				
