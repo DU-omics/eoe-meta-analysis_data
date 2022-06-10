@@ -28,7 +28,6 @@ Acetobacter_aceti
 Acetobacter_ascendens
 Acetobacter_ghanensis
 Acetobacter_orientalis
-Acetobacter_oryzifermentans
 Acetobacter_oryzoeni
 Acetobacter_pasteurianus
 Acetobacter_persici
@@ -124,8 +123,10 @@ Acinetobacter_septicus
 Acinetobacter_shaoyimingii
 Acinetobacter_soli
 Acinetobacter_sp._10FS3-1
+Acinetobacter_sp._Ac-14
 Acinetobacter_sp._ACNIH1
 Acinetobacter_sp._ACNIH2
+Acinetobacter_sp._BEC1-S18-ESBL-01
 Acinetobacter_sp._BHS4
 Acinetobacter_sp._C16S1
 Acinetobacter_sp._Colony158
@@ -283,7 +284,6 @@ Aeromonas_sp._FDAARGOS_1406
 Aeromonas_sp._FDAARGOS_1407
 Aeromonas_sp._FDAARGOS_1408
 Aeromonas_sp._FDAARGOS_1409
-Aeromonas_sp._FDAARGOS_1410
 Aeromonas_sp._FDAARGOS_1411
 Aeromonas_sp._FDAARGOS_1414
 Aeromonas_sp._FDAARGOS_1415
@@ -346,7 +346,6 @@ Alcaligenes_sp._SORT26
 Alcanivorax_dieselolei
 Alcanivorax_pacificus
 Alcanivorax_sp._N3-2A
-Alcanivorax_sp._NBRC_101098
 Alcanivorax_xenomutans
 Algibacter_alginicilyticus
 Algibacter_sp._L1A34
@@ -418,7 +417,6 @@ Alteromonas_pelagimontana
 Alteromonas_sp._76-1
 Alteromonas_sp._B31-7
 Alteromonas_sp._BL110
-Alteromonas_sp._Mac1
 Alteromonas_sp._MB-3u-76
 Alteromonas_sp._RKMC-009
 Alteromonas_sp._RW2A1
@@ -429,7 +427,6 @@ Aminipila_butyrica
 Aminipila_luticellarii
 Aminipila_terrae
 Aminobacter_aminovorans
-Aminobacter_sp._MDW-2
 Aminobacter_sp._MSH1
 Aminobacter_sp._SR38
 Aminobacterium_colombiense
@@ -491,14 +488,12 @@ Ancylobacter_pratisalsi
 Ancylobacter_sp._TS-1
 Aneurinibacillus_soli
 Aneurinibacillus_sp._XH2
-Aneurinibacillus_thermoaerophilus
 Anoxybacillus_amylolyticus
 Anoxybacillus_caldiproteolyticus
 Anoxybacillus_flavithermus
 Anoxybacillus_gonensis
 Anoxybacillus_kamchatkensis
 Anoxybacillus_sediminis
-Anoxybacillus_sp._B7M1
 Anoxybacillus_sp._PDR2
 Anoxybacter_fermentans
 Anseongella_ginsenosidimutans
@@ -592,7 +587,6 @@ Arthrobacter_sp._FB24
 Arthrobacter_sp._FW305-BF8
 Arthrobacter_sp._FW306-05-C
 Arthrobacter_sp._FW306-06-A
-Arthrobacter_sp._FW306-07-I
 Arthrobacter_sp._FW306-2-2C-D06B
 Arthrobacter_sp._KBS0702
 Arthrobacter_sp._NicSoilB11
@@ -704,13 +698,9 @@ Bacillus_smithii
 Bacillus_sp._1NLA3E
 Bacillus_sp._3a
 Bacillus_sp._7D3
-Bacillus_sp._A260
 Bacillus_sp._ABP14
-Bacillus_sp._AM1(2019)
 Bacillus_sp._B25(2016b)
-Bacillus_sp._BC1-43
 Bacillus_sp._BD59S
-Bacillus_sp._BS98
 Bacillus_sp._COPE52
 Bacillus_sp._CRB-7
 Bacillus_sp._Cs-700
@@ -721,15 +711,13 @@ Bacillus_sp._FJAT-14266
 Bacillus_sp._FJAT-18017
 Bacillus_sp._FJAT-22090
 Bacillus_sp._FJAT-42376
+Bacillus_sp._HBCD-sjtu
 Bacillus_sp._JAS24-2
-Bacillus_sp._JNUCC-22
 Bacillus_sp._KH172YL63
 Bacillus_sp._LJBS17
-Bacillus_sp._LJBV19
 Bacillus_sp._Lzh-5
 Bacillus_sp._M4U3P1
 Bacillus_sp._MBGLi79
-Bacillus_sp._MD-5
 Bacillus_sp._ms-22
 Bacillus_sp._N1-1
 Bacillus_sp._N3536
@@ -739,10 +727,10 @@ Bacillus_sp._NP247
 Bacillus_sp._NSP9.1
 Bacillus_sp._OxB-1
 Bacillus_sp._PAMC26568
-Bacillus_sp._PDNC022
 Bacillus_sp._RZ2MS9
 Bacillus_sp._S3
 Bacillus_sp._SB49
+Bacillus_sp._SJ-10
 Bacillus_sp._SYJ
 Bacillus_sp._THAF10
 Bacillus_sp._TK-2
@@ -783,6 +771,7 @@ Bacteroides_sp._HF-162
 Bacteroides_sp._KGMB07931
 Bacteroides_sp._KGMB10229
 Bacteroides_sp._M10
+Bacteroides_sp._PHL_2737
 Bacteroides_sp._ZJ-18
 Bacteroides_stercoris
 Bacteroides_thetaiotaomicron
@@ -811,6 +800,7 @@ Bartonella_sp._1-1C
 Bartonella_sp._46A
 Bartonella_sp._A1379B
 Bartonella_sp._HY038
+Bartonella_sp._Raccoon60
 Bartonella_sp._WD16.2
 Bartonella_tribocorum
 Bartonella_vinsonii
@@ -869,7 +859,6 @@ Blattabacterium_sp._(Cryptocercus_kyebangensis)
 Blattabacterium_sp._(Cryptocercus_punctulatus)_str._Cpu
 Blattabacterium_sp._(Mastotermes_darwiniensis)
 Blattabacterium_sp._(Nauphoeta_cinerea)
-Blattabacterium_sp._(Periplaneta_americana)
 Blattabacterium_sp._DPU
 Blautia_argi
 Blautia_hansenii
@@ -978,7 +967,6 @@ Bradyrhizobium_sp._6(2017)
 Bradyrhizobium_sp._A19
 Bradyrhizobium_sp._BTAi1
 Bradyrhizobium_sp._CCBAU_051011
-Bradyrhizobium_sp._CCBAU_21365
 Bradyrhizobium_sp._CCBAU_51753
 Bradyrhizobium_sp._CCBAU_51765
 Bradyrhizobium_sp._CCBAU_53338
@@ -995,7 +983,6 @@ Bradyrhizobium_sp._S2-11-4
 Bradyrhizobium_sp._S2-20-1
 Bradyrhizobium_sp._SG09
 Bradyrhizobium_sp._SK17
-Bradyrhizobium_sp._TM102
 Bradyrhizobium_symbiodeficiens
 Bradyrhizobium_vignae
 Bradyrhizobium_zhanjiangense
@@ -1063,6 +1050,7 @@ Brochothrix_thermosphacta
 Brucella_abortus
 Brucella_anthropi
 Brucella_ceti
+Brucella_inopinata
 Brucella_intermedia
 Brucella_melitensis
 Brucella_pinnipedialis
@@ -1074,8 +1062,6 @@ Brucella_sp._10RB9215
 Brucella_sp._2280
 Brucella_sp._458
 Brucella_sp._6810
-Brucella_sp._BO2
-Brucella_sp._BO3
 Brucella_sp._BTU1
 Brucella_suis
 Buchnera_aphidicola
@@ -1103,14 +1089,11 @@ Burkholderia_pseudomultivorans
 Burkholderia_pyrrocinia
 Burkholderia_savannae
 Burkholderia_seminalis
-Burkholderia_sp._2002721687
 Burkholderia_sp._B21-007
 Burkholderia_sp._Bp7605
 Burkholderia_sp._DHOD12
 Burkholderia_sp._IDO3
 Burkholderia_sp._JP2-270
-Burkholderia_sp._KBS0801
-Burkholderia_sp._KJ006
 Burkholderia_sp._LA-2-3-30-S1-D2
 Burkholderia_sp._LAS2
 Burkholderia_sp._MBR-1
@@ -1138,7 +1121,6 @@ Butyrivibrio_proteoclasticus
 Bythopirellula_goksoeyrii
 Caballeronia_insecticola
 Caballeronia_sp._M1242
-Caballeronia_sp._SBC1
 Caballeronia_sp._SBC2
 Caenibius_sp._WL
 Caenibius_tardaugens
@@ -1511,7 +1493,6 @@ Chlamydia_trachomatis
 Chlamydiifrater_phoenicopteri
 Chlamydiifrater_volucris
 Chloracidobacterium_aggregatum
-Chloracidobacterium_sp._D
 Chloracidobacterium_validum
 Chlorobaculum_limnaeum
 Chlorobaculum_parvum
@@ -1580,6 +1561,7 @@ Chryseobacterium_sp._StRB126
 Chryseobacterium_sp._T16E-39
 Chryseobacterium_sp._Y16C
 Chryseobacterium_sp._ZHDP1
+Chryseobacterium_taihuense
 Chryseobacterium_taklimakanense
 Chryseoglobus_indicus
 Chryseoglobus_sp._28M-23
@@ -1596,6 +1578,7 @@ Citrobacter_cronae
 Citrobacter_farmeri
 Citrobacter_freundii
 Citrobacter_freundii_complex_sp._CFNIH2
+Citrobacter_freundii_complex_sp._CFNIH4
 Citrobacter_freundii_complex_sp._CFNIH9
 Citrobacter_koseri
 Citrobacter_pasteurii
@@ -1605,20 +1588,15 @@ Citrobacter_sedlakii
 Citrobacter_sp._172116965
 Citrobacter_sp._B72
 Citrobacter_sp._BDA59-3
-Citrobacter_sp._BIDMC107
 Citrobacter_sp._BIDMC108
 Citrobacter_sp._CF971
-Citrobacter_sp._Colony475
 Citrobacter_sp._CRE-46
 Citrobacter_sp._FDAARGOS_156
 Citrobacter_sp._R56
 Citrobacter_sp._RHB25-C09
 Citrobacter_sp._RHB35-C17
-Citrobacter_sp._RHB35-C21
 Citrobacter_sp._RHBSTW-00599
-Citrobacter_sp._RHBSTW-00667
 Citrobacter_sp._RHBSTW-00696
-Citrobacter_sp._RHBSTW-00887
 Citrobacter_sp._TBCP-5362
 Citrobacter_sp._TSA-1
 Citrobacter_tructae
@@ -1688,10 +1666,8 @@ Cnuibacter_physcomitrellae
 Cobetia_amphilecti
 Cobetia_marina
 Cobetia_pacifica
-Cobetia_sp._4B
 Cobetia_sp._AM6
 Cobetia_sp._cqz5-12
-Cobetia_sp._ICG0124
 Cobetia_sp._L2A1
 Cognaticolwellia_beringensis
 Cognatishimia_activa
@@ -1827,6 +1803,7 @@ Corynebacterium_silvaticum
 Corynebacterium_simulans
 Corynebacterium_singulare
 Corynebacterium_sp._1864
+Corynebacterium_sp._18M0132
 Corynebacterium_sp._4H37-19
 Corynebacterium_sp._ATCC_6931
 Corynebacterium_sp._CNCTC7651
@@ -1927,7 +1904,6 @@ Cyanobium_sp._NS01
 Cyclobacterium_amurskyense
 Cyclobacterium_marinum
 Cycloclasticus_sp._P1
-Cycloclasticus_sp._PY97N
 Cycloclasticus_zancles
 Cylindrospermopsis_curvispora
 Cylindrospermopsis_raciborskii
@@ -1952,7 +1928,6 @@ Defluviicoccus_vanus
 Defluviitoga_tunisiensis
 Dehalobacter_restrictus
 Dehalobacter_sp._CF
-Dehalobacter_sp._DCA
 Dehalobacterium_formicoaceticum
 Dehalococcoides_mccartyi
 Dehalogenimonas_formicexedens
@@ -2083,7 +2058,6 @@ Dickeya_dadantii
 Dickeya_dianthicola
 Dickeya_fangzhongdai
 Dickeya_oryzae
-Dickeya_parazeae
 Dickeya_poaceiphila
 Dickeya_solani
 Dickeya_sp._NCPPB_3274
@@ -2115,7 +2089,6 @@ Draconibacterium_orientale
 Duganella_sp._AF9R3
 Duganella_sp._GN2-R2
 Duncaniella_dubosii
-Duncaniella_sp._C9
 Dyadobacter_fermentans
 Dyadobacter_sandarakinus
 Dyadobacter_sp._NIV53
@@ -2140,7 +2113,6 @@ Ectothiorhodospira_haloalkaliphila
 Ectothiorhodospira_sp._BSL-9
 Edaphobacter_sp._12200R-103
 Edaphobacter_sp._4G125
-Edwardsiella_anguillarum
 Edwardsiella_hoshinae
 Edwardsiella_ictaluri
 Edwardsiella_piscicida
@@ -2193,10 +2165,8 @@ Enterobacter_chengduensis
 Enterobacter_chuandaensis
 Enterobacter_cloacae
 Enterobacter_cloacae_complex_sp.
-Enterobacter_cloacae_complex_sp._ECL405
 Enterobacter_cloacae_complex_sp._ECL414
 Enterobacter_cloacae_complex_sp._ECNIH7
-Enterobacter_cloacae_complex_sp._FDA-CDC-AR_0132
 Enterobacter_hormaechei
 Enterobacter_kobei
 Enterobacter_ludwigii
@@ -2205,28 +2175,22 @@ Enterobacter_oligotrophicus
 Enterobacter_roggenkampii
 Enterobacter_sichuanensis
 Enterobacter_soli
-Enterobacter_sp._AN-K1
 Enterobacter_sp._BIDMC_29
 Enterobacter_sp._BIDMC100
 Enterobacter_sp._Colony194
-Enterobacter_sp._Crenshaw
 Enterobacter_sp._DNB-S2
 Enterobacter_sp._E20
 Enterobacter_sp._E76
+Enterobacter_sp._HK169
 Enterobacter_sp._JBIWA003
-Enterobacter_sp._JBIWA005
 Enterobacter_sp._JBIWA008
 Enterobacter_sp._JUb54
-Enterobacter_sp._LU1
-Enterobacter_sp._MGH_14
 Enterobacter_sp._N18-03635
 Enterobacter_sp._ODB01
 Enterobacter_sp._RHBSTW-00175
-Enterobacter_sp._RHBSTW-00593
-Enterobacter_sp._RHBSTW-00975
+Enterobacter_sp._RHBSTW-00422
 Enterobacter_sp._RHBSTW-00994
 Enterobacter_sp._SA187
-Enterobacter_sp._SES19
 Enterobacter_sp._SGAir0187
 Enterobacteriaceae_endosymbiont_of_Donacia_bicoloricornis
 Enterobacteriaceae_endosymbiont_of_Donacia_cincticornis
@@ -2244,7 +2208,6 @@ Enterobacteriaceae_endosymbiont_of_Donacia_simplex
 Enterobacteriaceae_endosymbiont_of_Donacia_sparganii
 Enterobacteriaceae_endosymbiont_of_Donacia_thalassina
 Enterobacteriaceae_endosymbiont_of_Donacia_tomentosa
-Enterobacteriaceae_endosymbiont_of_Donacia_versicolorea
 Enterobacteriaceae_endosymbiont_of_Donacia_vulgaris
 Enterobacteriaceae_endosymbiont_of_Macroplea_appendiculata
 Enterobacteriaceae_endosymbiont_of_Macroplea_mutica
@@ -2271,7 +2234,6 @@ Enterococcus_raffinosus
 Enterococcus_rotai
 Enterococcus_saigonensis
 Enterococcus_sp._CR-Ec1
-Enterococcus_sp._DA9
 Enterococcus_sp._FDAARGOS_375
 Enterococcus_sp._FDAARGOS_553
 Enterococcus_sp._M190262
@@ -2316,7 +2278,6 @@ Erythrobacter_sp._HKB08
 Erythrobacter_sp._HL-111
 Erythrobacter_sp._JK5
 Erythrobacter_sp._KY5
-Erythrobacter_sp._LQ02-29
 Erythrobacter_sp._SCSIO_43205
 Erythrobacter_sp._SDW2
 Erythrobacter_sp._THAF29
@@ -2325,7 +2286,7 @@ Escherichia_coli
 Escherichia_fergusonii
 Escherichia_marmotae
 Escherichia_sp._E4742
-Escherichia_sp._TM-G17TGC
+Escherichia_sp._TC-EC600-tetX4
 Ethanoligenens_harbinense
 Eubacterium_callanderi
 Eubacterium_limosum
@@ -2625,6 +2586,7 @@ Glutamicibacter_nicotianae
 Glutamicibacter_protophormiae
 Glutamicibacter_sp._ZJUTW
 Glycocaulis_alkaliphilus
+Gordonia_ajococcus
 Gordonia_alkanivorans
 Gordonia_amarae
 Gordonia_amicalis
@@ -2638,7 +2600,6 @@ Gordonia_polyisoprenivorans
 Gordonia_pseudoamarae
 Gordonia_rubripertincta
 Gordonia_sp._135
-Gordonia_sp._1D
 Gordonia_sp._JH63
 Gordonia_sp._KTR9
 Gordonia_sp._PDNC005
@@ -2716,7 +2677,6 @@ Halomonas_profundi
 Halomonas_socia
 Halomonas_sp._1513
 Halomonas_sp._18071143
-Halomonas_sp._A3H3
 Halomonas_sp._A40-4
 Halomonas_sp._FeN2
 Halomonas_sp._GFAJ-1
@@ -2740,7 +2700,6 @@ Halomonas_sp._Y2R2
 Halomonas_sp._YLGW01
 Halomonas_subglaciescola
 Halomonas_sulfidivorans
-Halomonas_sulfidoxydans
 Halomonas_tianxiuensis
 Halomonas_titanicae
 Halomonas_venusta
@@ -2964,16 +2923,9 @@ Klebsiella_pneumoniae
 Klebsiella_quasipneumoniae
 Klebsiella_quasivariicola
 Klebsiella_sp._BDA134-6
-Klebsiella_sp._LTGPAF-6F
-Klebsiella_sp._LY
 Klebsiella_sp._MPUS7
-Klebsiella_sp._P1954
-Klebsiella_sp._P1CD1
-Klebsiella_sp._PCX
-Klebsiella_sp._WP3-S18-ESBL-05
 Klebsiella_sp._WP3-W18-ESBL-02
 Klebsiella_sp._WP4-W18-ESBL-05
-Klebsiella_sp._WP7-S18-CRE-02
 Klebsiella_variicola
 Kluyvera_genomosp._3
 Kluyvera_intermedia
@@ -3080,6 +3032,7 @@ Lactobacillus_paragasseri
 Lactobacillus_sp._3B(2020)
 Lactobacillus_sp._CBA3605
 Lactobacillus_sp._CBA3606
+Lactobacillus_sp._JM1
 Lactobacillus_sp._wkB8
 Lactobacillus_taiwanensis
 Lactobacillus_terrae
@@ -3095,7 +3048,6 @@ Lactococcus_piscium
 Lactococcus_raffinolactis
 Lactococcus_sp._KACC_19320
 Lactococcus_sp._LG1074
-Lactococcus_sp._LG1267
 Lactococcus_sp._LG592
 Lactococcus_sp._LG606
 Lactococcus_taiwanensis
@@ -3117,7 +3069,6 @@ Leclercia_sp._119287
 Leclercia_sp._29361
 Leclercia_sp._4-9-1-25
 Leclercia_sp._Colony189
-Leclercia_sp._G3L
 Leclercia_sp._J807
 Leclercia_sp._LSNIH1
 Leclercia_sp._W17
@@ -3181,7 +3132,6 @@ Leptospira_interrogans
 Leptospira_kmetyi
 Leptospira_mayottensis
 Leptospira_santarosai
-Leptospira_sp._mild_001
 Leptospira_sp._severe_002
 Leptospira_tipperaryensis
 Leptospira_weilii
@@ -3221,7 +3171,6 @@ Leuconostoc_lactis
 Leuconostoc_mesenteroides
 Leuconostoc_pseudomesenteroides
 Leuconostoc_sp._C2
-Leuconostoc_sp._LN180020
 Leuconostoc_suionicum
 Levilactobacillus_brevis
 Levilactobacillus_koreensis
@@ -3315,6 +3264,7 @@ Lysobacter_alkalisoli
 Lysobacter_antibioticus
 Lysobacter_arenosi
 Lysobacter_capsici
+Lysobacter_caseinilyticus
 Lysobacter_enzymogenes
 Lysobacter_gummosus
 Lysobacter_lycopersici
@@ -3329,7 +3279,6 @@ Lysobacter_sp._CJ11
 Lysobacter_sp._CW239
 Lysobacter_sp._H21R20
 Lysobacter_sp._H21R4
-Lysobacter_sp._H23M41
 Lysobacter_sp._H23M47
 Lysobacter_sp._HDW10
 Lysobacter_sp._K5869
@@ -3502,14 +3451,12 @@ Mesorhizobium_ciceri
 Mesorhizobium_erdmanii
 Mesorhizobium_huakuii
 Mesorhizobium_japonicum
-Mesorhizobium_jarvisii
 Mesorhizobium_loti
 Mesorhizobium_opportunistum
 Mesorhizobium_sp._113-1-2
 Mesorhizobium_sp._113-3-3
 Mesorhizobium_sp._113-3-9
 Mesorhizobium_sp._131-2-1
-Mesorhizobium_sp._131-3-5
 Mesorhizobium_sp._8
 Mesorhizobium_sp._AA22
 Mesorhizobium_sp._B1-1-8
@@ -3539,7 +3486,6 @@ Mesorhizobium_sp._M8A.F.Ca.ET.057.01.1.1
 Mesorhizobium_sp._M9A.F.Ca.ET.002.03.1.2
 Mesorhizobium_sp._NBSH29
 Mesorhizobium_sp._NZP2077
-Mesorhizobium_sp._NZP2234
 Mesorhizobium_sp._NZP2298
 Mesorhizobium_sp._PAMC28654
 Mesorhizobium_sp._Pch-S
@@ -3553,7 +3499,6 @@ Metabacillus_sediminilitoris
 Metabacillus_sp._B2-18
 Metabacillus_sp._cB07
 Metabacillus_sp._KUDC1714
-Metakosakonia_sp._MRY16-398
 Metamycoplasma_alkalescens
 Metamycoplasma_anseris
 Metamycoplasma_arthritidis
@@ -3662,7 +3607,6 @@ Microbacterium_luteum
 Microbacterium_oleivorans
 Microbacterium_oryzae
 Microbacterium_oxydans
-Microbacterium_paludicola
 Microbacterium_paraoxydans
 Microbacterium_protaetiae
 Microbacterium_pygmaeum
@@ -3682,7 +3626,6 @@ Microbacterium_sp._cx-55
 Microbacterium_sp._H1-D42
 Microbacterium_sp._JZ31
 Microbacterium_sp._KUDC0405
-Microbacterium_sp._KUDC0406
 Microbacterium_sp._LKL04
 Microbacterium_sp._NIBRBAC000506063
 Microbacterium_sp._No._7
@@ -3693,6 +3636,7 @@ Microbacterium_sp._PAMC22086
 Microbacterium_sp._PM5
 Microbacterium_sp._RG1
 Microbacterium_sp._Se5.02b
+Microbacterium_sp._Se63.02b
 Microbacterium_sp._SGAir0570
 Microbacterium_sp._str._'China'
 Microbacterium_sp._TPU_3598
@@ -3888,6 +3832,7 @@ Mycobacterium_sp._DL440
 Mycobacterium_sp._DL592
 Mycobacterium_sp._EPa45
 Mycobacterium_sp._IDR2000157661
+Mycobacterium_sp._IWGMT90018-18076
 Mycobacterium_sp._JS623
 Mycobacterium_sp._MS1601
 Mycobacterium_sp._TY59
@@ -3911,7 +3856,6 @@ Mycolicibacter_minnesotensis
 Mycolicibacter_sinensis
 Mycolicibacter_sp._MYC017
 Mycolicibacter_sp._MYC098
-Mycolicibacter_sp._MYC101
 Mycolicibacter_sp._MYC123
 Mycolicibacter_sp._MYC340
 Mycolicibacter_terrae
@@ -4061,7 +4005,6 @@ Neisseria_lactamica
 Neisseria_meningitidis
 Neisseria_mucosa
 Neisseria_musculi
-Neisseria_perflava
 Neisseria_polysaccharea
 Neisseria_shayeganii
 Neisseria_sicca
@@ -4316,7 +4259,6 @@ Oxynema_aestuarii
 Pacificitalea_manganoxidans
 Paenalcaligenes_hominis
 Paenarthrobacter_aurescens
-Paenarthrobacter_nicotinovorans
 Paenarthrobacter_sp._YJN-5
 Paenarthrobacter_sp._YJN-D
 Paenarthrobacter_ureafaciens
@@ -4661,6 +4603,7 @@ Phyllobacterium_sp._T1018
 Phyllobacterium_sp._T1293
 Phyllobacterium_zundukense
 Phytobacter_diazotrophicus
+Phytobacter_sp._SCO41
 Phytobacter_ursingii
 Phytohabitans_flavus
 Phytohabitans_suffuscus
@@ -4758,7 +4701,6 @@ Polynucleobacter_sp._JS-JIR-II-50
 Polynucleobacter_sp._JS-JIR-II-b4
 Polynucleobacter_sp._JS-Mosq-20-D10
 Polynucleobacter_sp._LimPoW16
-Polynucleobacter_sp._MG-5-Ahmo-C2
 Polynucleobacter_sp._MG-9-Vaara-E2
 Polynucleobacter_sp._MG-Unter2-18
 Polynucleobacter_sp._MWH-Aus1W21
@@ -4890,7 +4832,6 @@ Pseudoalteromonas_arctica
 Pseudoalteromonas_atlantica
 Pseudoalteromonas_carrageenovora
 Pseudoalteromonas_distincta
-Pseudoalteromonas_donghaensis
 Pseudoalteromonas_espejiana
 Pseudoalteromonas_issachenkonii
 Pseudoalteromonas_luteoviolacea
@@ -5070,6 +5011,7 @@ Pseudomonas_salmasensis
 Pseudomonas_saudiphocaensis
 Pseudomonas_savastanoi
 Pseudomonas_sediminis
+Pseudomonas_sesami
 Pseudomonas_sessilinigenes
 Pseudomonas_shahriarae
 Pseudomonas_shirazica
@@ -5079,7 +5021,6 @@ Pseudomonas_simiae
 Pseudomonas_soli
 Pseudomonas_sp._02C_26
 Pseudomonas_sp._09C_129
-Pseudomonas_sp._13159349
 Pseudomonas_sp._14181154
 Pseudomonas_sp._15A4
 Pseudomonas_sp._2hn
@@ -5092,7 +5033,6 @@ Pseudomonas_sp._ABC1
 Pseudomonas_sp._ACM7
 Pseudomonas_sp._ADAK13
 Pseudomonas_sp._ADAK18
-Pseudomonas_sp._ADAK2
 Pseudomonas_sp._ADAK21
 Pseudomonas_sp._ADAK22
 Pseudomonas_sp._ADPe
@@ -5183,9 +5123,7 @@ Pseudomonas_sp._PONIH3
 Pseudomonas_sp._PP3
 Pseudomonas_sp._PS1(2021)
 Pseudomonas_sp._R1-43-08
-Pseudomonas_sp._R11-23-07
 Pseudomonas_sp._R2-37-08W
-Pseudomonas_sp._R2-60-08W
 Pseudomonas_sp._R2-7-07
 Pseudomonas_sp._R2A2
 Pseudomonas_sp._R3-18-08
@@ -5193,11 +5131,9 @@ Pseudomonas_sp._R3-52-08
 Pseudomonas_sp._R32
 Pseudomonas_sp._R4-34-07
 Pseudomonas_sp._R4-35-07
-Pseudomonas_sp._R4-39-08
 Pseudomonas_sp._R5-89-07
 Pseudomonas_sp._R76
 Pseudomonas_sp._R84
-Pseudomonas_sp._RBPA9
 Pseudomonas_sp._RC3H12
 Pseudomonas_sp._RtIB026
 Pseudomonas_sp._RU47
@@ -5219,7 +5155,6 @@ Pseudomonas_sp._SK3(2021)
 Pseudomonas_sp._So3.2b
 Pseudomonas_sp._SORT22
 Pseudomonas_sp._St29
-Pseudomonas_sp._St290
 Pseudomonas_sp._St316
 Pseudomonas_sp._St386
 Pseudomonas_sp._StFLB209
@@ -5277,7 +5212,7 @@ Pseudonocardia_dioxanivorans
 Pseudonocardia_sp._AL041005-10
 Pseudonocardia_sp._CGMCC_4.1532
 Pseudonocardia_sp._DSM_110487
-Pseudonocardia_sp._EC080625-04
+Pseudonocardia_sp._EC080619-01
 Pseudonocardia_sp._HH130629-09
 Pseudonocardia_sp._HH130630-07
 Pseudooceanicola_algae
@@ -5302,6 +5237,7 @@ Pseudoxanthomonas_suwonensis
 Psychrobacillus_glaciei
 Psychrobacillus_sp._AK_1817
 Psychrobacillus_sp._INOP01
+Psychrobacter_alimentarius
 Psychrobacter_arcticus
 Psychrobacter_arenosus
 Psychrobacter_cryohalolentis
@@ -5316,7 +5252,6 @@ Psychrobacter_sp._P11F6
 Psychrobacter_sp._P11G3
 Psychrobacter_sp._P11G5
 Psychrobacter_sp._P2G3
-Psychrobacter_sp._PAMC27889
 Psychrobacter_sp._PraFG1
 Psychrobacter_sp._YP14
 Psychrobacter_urativorans
@@ -5396,6 +5331,7 @@ Rhizobium_daejeonense
 Rhizobium_etli
 Rhizobium_favelukesii
 Rhizobium_gallicum
+Rhizobium_grahamii
 Rhizobium_hidalgonense
 Rhizobium_indicum
 Rhizobium_jaguaris
@@ -5416,6 +5352,7 @@ Rhizobium_sp._ACO-34A
 Rhizobium_sp._B21_90
 Rhizobium_sp._B230_85
 Rhizobium_sp._BG4
+Rhizobium_sp._BG6
 Rhizobium_sp._C104
 Rhizobium_sp._CCGE531
 Rhizobium_sp._CIAT894
@@ -5423,8 +5360,6 @@ Rhizobium_sp._IE4771
 Rhizobium_sp._K102
 Rhizobium_sp._Kim5
 Rhizobium_sp._L51_94
-Rhizobium_sp._N113
-Rhizobium_sp._N324
 Rhizobium_sp._NIBRBAC000502774
 Rhizobium_sp._NLR16a
 Rhizobium_sp._NXC14
@@ -5475,15 +5410,13 @@ Rhodococcus_sp._BH4
 Rhodococcus_sp._C1
 Rhodococcus_sp._DMF-1
 Rhodococcus_sp._DMU1
-Rhodococcus_sp._LW-XY12
+Rhodococcus_sp._H-CA8f
 Rhodococcus_sp._M8
 Rhodococcus_sp._MTM3W5.2
 Rhodococcus_sp._NJ-530
 Rhodococcus_sp._P-2
 Rhodococcus_sp._P1Y
-Rhodococcus_sp._p52
 Rhodococcus_sp._PBTS_1
-Rhodococcus_sp._PSBB049
 Rhodococcus_sp._R79
 Rhodococcus_sp._RDE2
 Rhodococcus_sp._S2-17
@@ -5492,7 +5425,6 @@ Rhodococcus_sp._USK10
 Rhodococcus_sp._USK13
 Rhodococcus_sp._W8901
 Rhodococcus_sp._WAY2
-Rhodococcus_sp._WB1
 Rhodococcus_sp._WB9
 Rhodococcus_sp._WMMA185
 Rhodococcus_sp._X156
@@ -5528,7 +5460,6 @@ Richelia_sinica
 Rickettsia_africae
 Rickettsia_akari
 Rickettsia_amblyommatis
-Rickettsia_asiatica
 Rickettsia_australis
 Rickettsia_bellii
 Rickettsia_canadensis
@@ -5540,12 +5471,9 @@ Rickettsia_massiliae
 Rickettsia_monacensis
 Rickettsia_montanensis
 Rickettsia_parkeri
-Rickettsia_peacockii
 Rickettsia_prowazekii
 Rickettsia_rhipicephali
-Rickettsia_rickettsii
 Rickettsia_sibirica
-Rickettsia_slovaca
 Rickettsia_tillamookensis
 Rickettsia_typhi
 Rickettsiales_endosymbiont_of_Stachyamoeba_lipophora
@@ -5576,7 +5504,6 @@ Roseitalea_porphyridii
 Roseithermus_sacchariphilus
 Roseivivax_marinus
 Roseivivax_sp._THAF30
-Roseivivax_sp._THAF40
 Roseobacter_denitrificans
 Roseobacter_litoralis
 Roseobacter_ponti
@@ -5772,8 +5699,8 @@ Serratia_sp._FDAARGOS_506
 Serratia_sp._FGI94
 Serratia_sp._FS14
 Serratia_sp._JSRIV001
-Serratia_sp._JSRIV004
 Serratia_sp._JUb9
+Serratia_sp._LS-1
 Serratia_sp._P2ACOL2
 Serratia_sp._SCBI
 Serratia_sp._SSNIH1
@@ -5844,6 +5771,7 @@ Shewanella_sp._SNU_WT4
 Shewanella_sp._W3-18-1
 Shewanella_sp._WE21
 Shewanella_sp._WPAGA9
+Shewanella_sp._YLB-09
 Shewanella_vesiculosa
 Shewanella_violacea
 Shewanella_woodyi
@@ -5939,7 +5867,6 @@ Sphingobium_sp._Cam5-1
 Sphingobium_sp._CAP-1
 Sphingobium_sp._EP60837
 Sphingobium_sp._KCTC_72723
-Sphingobium_sp._LF-16
 Sphingobium_sp._MI1205
 Sphingobium_sp._PAMC28499
 Sphingobium_sp._RAC03
@@ -6133,6 +6060,8 @@ Staphylococcus_sp._CCM_9025
 Staphylococcus_sp._HL28
 Staphylococcus_sp._M0911
 Staphylococcus_sp._MI_10-1553
+Staphylococcus_sp._MZ3
+Staphylococcus_sp._MZ9
 Staphylococcus_sp._SB1-57
 Staphylococcus_sp._T93
 Staphylococcus_succinus
@@ -6162,6 +6091,7 @@ Stenotrophomonas_sp._NA06056
 Stenotrophomonas_sp._Pemsol
 Stenotrophomonas_sp._pho
 Stenotrophomonas_sp._SAU14A_NAIMI4_5
+Stenotrophomonas_sp._SAU14A_NAIMI4_8
 Stenotrophomonas_sp._SI-NJAU-1
 Stenotrophomonas_sp._SXG-1
 Stenotrophomonas_sp._WZN-1
@@ -6249,6 +6179,7 @@ Streptococcus_sp._HSISS2
 Streptococcus_sp._HSISS3
 Streptococcus_sp._KS_6
 Streptococcus_sp._LPB0220
+Streptococcus_sp._NCTC_11567
 Streptococcus_sp._NPS_308
 Streptococcus_sp._NSJ-72
 Streptococcus_sp._oral_taxon_061
@@ -6377,12 +6308,10 @@ Streptomyces_qinzhouensis
 Streptomyces_rapamycinicus
 Streptomyces_rectiverticillatus
 Streptomyces_rimosus
-Streptomyces_rochei
 Streptomyces_roseirectus
 Streptomyces_roseochromogenus
 Streptomyces_rubrolavendulae
 Streptomyces_rutgersensis
-Streptomyces_sampsonii
 Streptomyces_scabiei
 Streptomyces_seoulensis
 Streptomyces_sp._1_25
@@ -6400,27 +6329,23 @@ Streptomyces_sp._AgN23
 Streptomyces_sp._AMCC400023
 Streptomyces_sp._BH-MK-02
 Streptomyces_sp._BHT-5-2
-Streptomyces_sp._BSE6.1
 Streptomyces_sp._C8S0
 Streptomyces_sp._CA-256286
 Streptomyces_sp._CB00271
 Streptomyces_sp._CB01881
 Streptomyces_sp._CB04723
 Streptomyces_sp._CB09001
-Streptomyces_sp._CC0208
 Streptomyces_sp._CCM_MD2014
 Streptomyces_sp._CdTB01
 Streptomyces_sp._CFMR_7
 Streptomyces_sp._CLI2509
 Streptomyces_sp._CMB-StM0423
 Streptomyces_sp._CNQ-509
-Streptomyces_sp._CRSS-Y-16
 Streptomyces_sp._DSM_40868
 Streptomyces_sp._EAS-AB2608
 Streptomyces_sp._endophyte_N2
 Streptomyces_sp._fd1-xmd
 Streptomyces_sp._FR-008
-Streptomyces_sp._GBA_94-10
 Streptomyces_sp._GF20
 Streptomyces_sp._GMY02
 Streptomyces_sp._Go_40_10
@@ -6435,7 +6360,6 @@ Streptomyces_sp._INR7
 Streptomyces_sp._JB150
 Streptomyces_sp._jing01
 Streptomyces_sp._KPB2
-Streptomyces_sp._LBUM_1475
 Streptomyces_sp._LBUM_1480
 Streptomyces_sp._M2
 Streptomyces_sp._M54
@@ -6454,35 +6378,26 @@ Streptomyces_sp._NBU3104
 Streptomyces_sp._NEAU-S7GS2
 Streptomyces_sp._NEAU-sy36
 Streptomyces_sp._NHF165
-Streptomyces_sp._OUCMDZ-3434
 Streptomyces_sp._P3
 Streptomyces_sp._PAMC_26508
 Streptomyces_sp._PBH53
-Streptomyces_sp._PVA_94-07
 Streptomyces_sp._QHH-9511
-Streptomyces_sp._R527F
 Streptomyces_sp._Rer75
 Streptomyces_sp._RLB1-33
 Streptomyces_sp._RLB1-9
 Streptomyces_sp._RLB3-17
-Streptomyces_sp._RLB3-5
-Streptomyces_sp._RLB3-6
 Streptomyces_sp._RPA4-2
 Streptomyces_sp._RPA4-5
 Streptomyces_sp._RTd22
 Streptomyces_sp._S063
-Streptomyces_sp._S1A1-7
 Streptomyces_sp._S1D4-14
 Streptomyces_sp._S1D4-20
-Streptomyces_sp._S1D4-23
 Streptomyces_sp._S4.7
-Streptomyces_sp._S501
 Streptomyces_sp._S8
 Streptomyces_sp._SAT1
 Streptomyces_sp._SCSIO_3032
 Streptomyces_sp._SCSIO_64649
 Streptomyces_sp._SCUT-3
-Streptomyces_sp._SGAir0924
 Streptomyces_sp._Sge12
 Streptomyces_sp._SirexAA-E
 Streptomyces_sp._SM17
@@ -6497,12 +6412,10 @@ Streptomyces_sp._TN58
 Streptomyces_sp._Tu_2975
 Streptomyces_sp._Tu6071
 Streptomyces_sp._Tue_6075
-Streptomyces_sp._TYQ1024
 Streptomyces_sp._V17-9
 Streptomyces_sp._VN1
 Streptomyces_sp._W1SF4
 Streptomyces_sp._WA1-19
-Streptomyces_sp._WA6-1-16
 Streptomyces_sp._WAC_01438
 Streptomyces_sp._WAC_01529
 Streptomyces_sp._WAC_06738
@@ -6524,7 +6437,6 @@ Streptomyces_tuirus
 Streptomyces_venezuelae
 Streptomyces_vietnamensis
 Streptomyces_vinaceus
-Streptomyces_violaceoruber
 Streptomyces_violaceusniger
 Streptomyces_viridosporus
 Streptomyces_xanthii
@@ -6541,15 +6453,11 @@ Sulfidibacter_corallicola
 Sulfitobacter_alexandrii
 Sulfitobacter_mediterraneus
 Sulfitobacter_pseudonitzschiae
-Sulfitobacter_sp._B30-2
-Sulfitobacter_sp._BSw21498
-Sulfitobacter_sp._CB2047
 Sulfitobacter_sp._D7
 Sulfitobacter_sp._JK7-1
 Sulfitobacter_sp._JL08
 Sulfitobacter_sp._SK011
 Sulfitobacter_sp._SK012
-Sulfitobacter_sp._SK025
 Sulfitobacter_sp._THAF37
 Sulfuricaulis_limicola
 Sulfuricella_denitrificans
@@ -6585,7 +6493,6 @@ Sulfurospirillum_halorespirans
 Sulfurospirillum_multivorans
 Sulfurospirillum_sp._ACSTCE
 Sulfurospirillum_sp._JPD-1
-Sulfurospirillum_sp._SL2-2
 Sulfurospirillum_sp._UCH001
 Sulfurovum_indicum
 Sulfurovum_lithotrophicum
@@ -6605,7 +6512,6 @@ Synechococcus_elongatus
 Synechococcus_sp._A15-127
 Synechococcus_sp._A15-44
 Synechococcus_sp._A15-62
-Synechococcus_sp._A18-25c
 Synechococcus_sp._BIOS-E4-1
 Synechococcus_sp._BIOS-U3-1
 Synechococcus_sp._BMK-MC-1
@@ -6637,7 +6543,6 @@ Synechococcus_sp._PCC_6312
 Synechococcus_sp._PCC_7002
 Synechococcus_sp._PCC_7003
 Synechococcus_sp._PCC_7117
-Synechococcus_sp._PCC_73109
 Synechococcus_sp._PCC_7336
 Synechococcus_sp._PCC_7502
 Synechococcus_sp._PCC_8807
@@ -6652,7 +6557,6 @@ Synechococcus_sp._RSCCF101
 Synechococcus_sp._SYN20
 Synechococcus_sp._SynAce01
 Synechococcus_sp._TAK9802
-Synechococcus_sp._UTEX_2973
 Synechococcus_sp._WH_8020
 Synechococcus_sp._WH_8101
 Synechococcus_sp._WH_8109
@@ -6792,14 +6696,12 @@ Thermosediminibacter_oceani
 Thermosipho_africanus
 Thermosipho_ferrireducens
 Thermosipho_melanesiensis
-Thermosipho_sp._1070
 Thermostichus_lividus
 Thermosulfidibacter_takaii
 Thermosulfurimonas_marina
 Thermosulfuriphilus_ammonigenes
 Thermosynechococcus_sp._CL-1
 Thermosynechococcus_sp._NK55a
-Thermosynechococcus_sp._TA-1
 Thermosynechococcus_vestitus
 Thermotoga_caldifontis
 Thermotoga_maritima
@@ -6808,7 +6710,6 @@ Thermotoga_neapolitana
 Thermotoga_petrophila
 Thermotoga_profunda
 Thermotoga_sp._2812B
-Thermotoga_sp._RQ2
 Thermotomaculum_hydrothermale
 Thermovibrio_ammonificans
 Thermovirga_lienii
@@ -6998,7 +6899,6 @@ Vibrio_metschnikovii
 Vibrio_mimicus
 Vibrio_natriegens
 Vibrio_navarrensis
-Vibrio_neocaledonicus
 Vibrio_neptunius
 Vibrio_nigripulchritudo
 Vibrio_owensii
@@ -7022,7 +6922,6 @@ Vibrio_sp._HDW18
 Vibrio_sp._OG9-811
 Vibrio_sp._Scap24
 Vibrio_sp._SCSIO_43132
-Vibrio_sp._sp1
 Vibrio_sp._SS-MA-C1-2
 Vibrio_sp._THAF190c
 Vibrio_sp._THAF191c
@@ -7093,7 +6992,6 @@ Wolbachia_endosymbiont_of_Corcyra_cephalonica
 Wolbachia_endosymbiont_of_Cruorifilaria_tuberocauda
 Wolbachia_endosymbiont_of_Ctenocephalides_felis_wCfeJ
 Wolbachia_endosymbiont_of_Ctenocephalides_felis_wCfeT
-Wolbachia_endosymbiont_of_Culex_quinquefasciatus
 Wolbachia_endosymbiont_of_Delia_radicum
 Wolbachia_endosymbiont_of_Diaphorina_citri
 Wolbachia_endosymbiont_of_Dipetalonema_caudispina
@@ -7102,9 +7000,7 @@ Wolbachia_endosymbiont_of_Drosophila_innubila
 Wolbachia_endosymbiont_of_Drosophila_simulans
 Wolbachia_endosymbiont_of_Folsomia_candida
 Wolbachia_endosymbiont_of_Litomosoides_sigmodontis
-Wolbachia_endosymbiont_of_Onchocerca_ochengi
 Wolbachia_endosymbiont_of_Onchocerca_volvulus
-Wolbachia_endosymbiont_of_Spodoptera_picta
 Wolbachia_endosymbiont_of_Trichogramma_pretiosum
 Wolbachia_endosymbiont_of_Wiebesia_pumilae
 Wolbachia_pipientis
@@ -7130,6 +7026,7 @@ Xanthomonas_perforans
 Xanthomonas_phaseoli
 Xanthomonas_sacchari
 Xanthomonas_sp._GW
+Xanthomonas_sp._MLO165
 Xanthomonas_sp._SI
 Xanthomonas_sp._SS
 Xanthomonas_theicola
@@ -7151,7 +7048,6 @@ Xylophilus_rhododendri
 Yangia_pacifica
 Yersinia_aldovae
 Yersinia_aleksiciae
-Yersinia_bercovieri
 Yersinia_canariae
 Yersinia_enterocolitica
 Yersinia_entomophaga
@@ -7167,7 +7063,6 @@ Yersinia_rochesterensis
 Yersinia_rohdei
 Yersinia_ruckeri
 Yersinia_similis
-Yersinia_sp._KBS0713
 Yimella_sp._cx-51
 Yinghuangia_sp._ASG_101
 Yokenella_regensburgei
